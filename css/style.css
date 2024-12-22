@@ -21,6 +21,22 @@ body {
     padding: 10px;
 }
 
+#area-principal{
+    background: #ffffff;
+    width: 920px;
+    margin: 0 auto
+}
+
+#area-postagem{
+    width: 660px;
+    float: left;
+}
+
+#area-lateral{
+    width: 240px;
+    float: right;
+}
+
 /* Formatações em geral */
 h1 {
     font-size: 2.5em;

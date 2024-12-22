@@ -1,0 +1,11 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #e6e6e6;
+}
